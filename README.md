@@ -15,7 +15,7 @@ This is a repository for showcasing my skills, sharing projects, and tracking my
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - SQL
 - Excel
-- Tableau / Power BI
+- Tableau
 - Data Cleaning & Visualization
 
 ## 📊 Projects
