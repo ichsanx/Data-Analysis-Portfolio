@@ -7,7 +7,7 @@ During my studies, I honed my ability to work with complex data and developed a 
 
 In my free time, I enjoy exploring new data analysis tools and techniques, and I'm always looking for opportunities to expand my knowledge and skills. Whether working in a team or independently, I'm driven by the excitement of discovering new insights and the satisfaction of using data to solve complex problems.
 
-My CV is in PDF format.
+[My CV](https://github.com/ichsanx/curriculum_vitae/blob/main/assets/file/CV%20Ichsan%20Saputra%20-%20Eng.pdf) is in PDF format.
 
 This is a repository for showcasing my skills, sharing projects, and tracking my progress in Data Analysis/Data Science related topics.
 
