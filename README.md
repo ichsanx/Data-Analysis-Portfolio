@@ -1,4 +1,5 @@
-# Ichsan Saputra - Data Analyst Portfolio
+#Portfolio
+# Ichsan Saputra - Data Scientist / Data Analyst
 
 ## 📘 About Me
 Hi, I'm Ichsan! I have a background in data science analytics, particularly in Performance Data. I've built a strong foundation in data science and a passion for using data to uncover meaningful insights. I'm excited to bring my technical and analytical skills to the data science field as a professional data specialist.
@@ -13,11 +14,17 @@ This is a repository for showcasing my skills, sharing projects, and tracking my
 
 ## 🧩 Skills
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
-- SQL
-- Microsoft Office (Excel, Power Point, Word)
+- tructured Query Language (SQL)
+- Microsoft Office (Excel, Power Point, Word, Visio)
 - Tableau
 - Data Cleaning & Visualization
-- PHP
+- Hypertext Preprocessor (PHP)
+- My Sql (Sistem Manajemen Basis Data Relasional (RDBMS)
+- Hypertext Markup Language (HTML)
+- Java Script (JSS)
+- Cascading Style Sheets (CSS)
+- Oracle
+- Editor (Canva, PhotoShop, Corel Draw)
 
 ## 📊 Projects
 ### 1. [Judul Proyek 1]
