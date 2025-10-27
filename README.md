@@ -17,6 +17,7 @@ This is a repository for showcasing my skills, sharing projects, and tracking my
 - Microsoft Office (Excel, Power Point, Word)
 - Tableau
 - Data Cleaning & Visualization
+- PHP
 
 ## 📊 Projects
 ### 1. [Judul Proyek 1]
