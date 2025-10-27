@@ -14,7 +14,7 @@ This is a repository for showcasing my skills, sharing projects, and tracking my
 ## 🧩 Skills
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - SQL
-- Excel
+- Microsoft Office (Excel, Power Point, Word)
 - Tableau
 - Data Cleaning & Visualization
 
@@ -28,11 +28,11 @@ Deskripsi singkat dan tujuan proyek.
 🔗 [Lihat Notebook](link) | 📊 Tools: SQL, Tableau
 
 ## 📜 Education
-- S1 / S2 [Jurusan], [Universitas]
+- S1 [Teknik Informatika], [STMIK MERCUSUAR]
 - Sertifikasi: Google Data Analytics, dsb.
 
 ## 📫 Contact
-- 📧 [email kamu]
-- 🌐 [LinkedIn kamu]
-- 💻 [GitHub Pages jika ada]
+- 📧 [ichsan.saputra007@gmail.com]
+- 🌐 [https://www.linkedin.com/in/ichsan-saputra-561299101/]
+- 💻 [https://ichsanx.github.io/curriculum_vitae/]
 
